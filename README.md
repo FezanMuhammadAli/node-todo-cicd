@@ -1,6 +1,6 @@
 # node-todo-cicd-by-shubam
 
-Run these commands:
+Run these commands to run the project locally:
 
 
 `sudo apt install nodejs`
